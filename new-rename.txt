@@ -1,0 +1,3 @@
+to add this individual file into my repository.
+hello diff command i know u'll compare pwd with staging area.
+this file has changed now.
