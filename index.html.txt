@@ -1,0 +1,9 @@
+<DOCTYPE html>
+<html>
+<head>
+<title> Tech Solution</title>
+</head>
+<body>
+<h2>Weclome to Tech Solution</h2>
+</body>
+</html>
